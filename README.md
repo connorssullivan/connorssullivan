@@ -36,5 +36,5 @@
 </details>
 
 
-# 🌐 [Personal Website]([https://jjmccauley.com/](https://connorsullivan.me/)) 
+# 🌐 [Personal Website](https://connorsullivan.me/) 
 
