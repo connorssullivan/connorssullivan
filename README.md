@@ -1,6 +1,16 @@
-# 👋 What's up, i’m Connor
-[![Connors's GitHub Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=connorssullivan&theme=dark)](https://github.com/connorssullivan)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairik&layout=compact&theme=dark)
+# 👋 What's up, I’m Connor
+
+<!-- Center the Commit Streak and Top Languages widgets -->
+<div align="center">
+  <a href="https://github.com/connorssullivan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=connorssullivan&theme=dark" alt="Connor's GitHub Commit Streak" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairik&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+<!-- GitHub Activity Graph -->
+![Connor's Graph](https://github-readme-activity-graph.vercel.app/graph?username=connorssullivan&custom_title=Connor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF0000&line=FF0000&point=FF0000&area_color=2D0000&title_color=FFFFFF&area=true)
+
 
 <!---   
 # 🚀 GitHub Stats and Languages
