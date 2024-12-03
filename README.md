@@ -5,7 +5,7 @@
   <a href="https://github.com/connorssullivan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=connorssullivan&theme=dark" alt="Connor's GitHub Commit Streak" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairik&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connorssullivan&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 <!-- GitHub Activity Graph -->
